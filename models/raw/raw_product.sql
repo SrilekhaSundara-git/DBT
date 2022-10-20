@@ -5,4 +5,4 @@
 }}
 
 SELECT *
-FROM raw.globalmart.products
+FROM RAW.GLOBALMART.PRODUCT
